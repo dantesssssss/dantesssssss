@@ -7,21 +7,20 @@
 <h3 align="center">🧠 About Me</h3>
 
 🔹 🎓 I’m a **second-year Computer Science student** at **PJATK (Polsko-Japońska Akademia Technik Komputerowych)**  
-🔹 ⌨️ Built **4 full projects** using various technologies  
-🔹 📚 Currently learning: `C++`, `Java`, `Python`, `Bash`, `SQL`  
+🔹 ⌨️ Built **many(7+) projects** using various technologies  
+🔹 📚 Tech Stack: `C++`, `Java`, `Python`, `Bash`, `SQL`  
 🔹 🛠️ **Open to collaborations**, internships, and freelance opportunities
 
 
 ---
 
-<h3 align="center">🚀 Completed Projects</h3>
+<h3 align="center">🚀 Some Of My Completed Projects</h3>
 
 🔸 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) 📊 [**Performance Analyzer for Java Collections**](https://github.com/DaniilAleshkivskyi/PerformanceAnalyzerForJavaCollections) — CLI tool + CSV export for benchmarking collections  
-🔸 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) 🐢 **Turtle Bridge** — MVC-based Java game with custom UI, logic and sprites  
+
+
 🔸 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ⌨️ [**Monkey Typer**](https://github.com/DaniilAleshkivskyi/MonkeyTyper)
 — fast-paced typing game with animations, config menu and scoring  
-🔸 ![SQL](https://img.shields.io/badge/SQL-316192?style=flat-square&logo=postgresql&logoColor=white) 🎧 **Spotify Database** — 20-table relational DB with complex SQL queries and normalization
-
 
 ---
 
