@@ -8,7 +8,7 @@
 
 🔹 🎓 I’m a **second-year Computer Science student** at **PJATK (Polsko-Japońska Akademia Technik Komputerowych)**  
 🔹 ⌨️ Built **many(7+) projects** using various technologies  
-🔹 📚 Tech Stack: `C++`, `Java`, `Python`, `Bash`, `SQL`  
+🔹 📚 Tech Stack: `C++`, `Java`, `Python`, `Next.js`,`Bash`, `SQL`  
 🔹 🛠️ **Open to collaborations**, internships, and freelance opportunities
 
 
@@ -35,26 +35,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniilAleshkivskyi&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaniilAleshkivskyi&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-<h3 align="center">📬 Contact Me</h3>
-
-<p align="center">
-  <a href="mailto:your@email.com">
-    <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/Daniil-Aleshkivskyi">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
-  </a>
-</p>
