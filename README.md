@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&weight=500&size=40&duration=2000&pause=300&color=F7F7F7&background=22FFCA00&center=true&multiline=true&repeat=false&width=1000&height=60&lines=Hey+there%2C+I'm+Daniil+Aleshkivskyi%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<h3 align="center">🎓 2nd-year CS student at PJATK</h3>
+<h3 align="center">🎓 3rd-year CS student at PJATK</h3>
 
 ---
 
