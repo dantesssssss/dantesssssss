@@ -6,9 +6,9 @@
 
 <h3 align="center">🧠 About Me</h3>
 
-🔹 🎓 I’m a **second-year Computer Science student** at **PJATK (Polsko-Japońska Akademia Technik Komputerowych)**  
+🔹 🎓 I’m a **third-year Computer Science student** at **PJATK (Polsko-Japońska Akademia Technik Komputerowych)**  
 🔹 ⌨️ Built **many(7+) projects** using various technologies  
-🔹 📚 Tech Stack: `C++`, `Java`, `Python`, `Next.js`,`Bash`, `SQL`  
+🔹 📚 Tech Stack: `Java`, `Python`, `C++`, `Next.js`,`Bash`, `SQL`  
 🔹 🛠️ **Open to collaborations**, internships, and freelance opportunities
 
 
