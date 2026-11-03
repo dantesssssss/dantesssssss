@@ -9,21 +9,9 @@
 🔹 🎓 I’m a **third-year Computer Science student** at **PJATK (Polsko-Japońska Akademia Technik Komputerowych)**  
 🔹 ⌨️ Built **many(7+) projects** using various technologies  
 🔹 📚 Tech Stack: `Java`, `Python`, `C++`, `Next.js`,`Bash`, `SQL`  
-🔹 🛠️ **Open to collaborations**, internships, and freelance opportunities
 
 
 ---
-
-<h3 align="center">🚀 Some Of My Completed Projects</h3>
-
-🔸 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) 📊 [**Performance Analyzer for Java Collections**](https://github.com/DaniilAleshkivskyi/PerformanceAnalyzerForJavaCollections) — CLI tool + CSV export for benchmarking collections  
-
-
-🔸 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ⌨️ [**Monkey Typer**](https://github.com/DaniilAleshkivskyi/MonkeyTyper)
-— fast-paced typing game with animations, config menu and scoring  
-
----
-
 <h3 align="center">⚙️ Tech Stack</h3>
 
 <p align="center">
