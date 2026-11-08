@@ -22,6 +22,7 @@ public class AboutMe {
     }
 }
 ```
+---
 
 <h3 align="center">⚙️ Tech Stack</h3> 
 <p align="center"><b>Languages</b></p> 
@@ -43,6 +44,8 @@ public class AboutMe {
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
 </p>
+
+---
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
